@@ -112,6 +112,10 @@ Username.sanitize('cäcilie_weiß')
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @angelikatyborska
